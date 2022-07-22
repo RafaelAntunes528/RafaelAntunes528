@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rafael Antunes
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on some
 - 📫 How to reach me rafa13ant@gmail.com
 
 <!---
